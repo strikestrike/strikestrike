@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://github.com/strikestrike/strikestrike/blob/main/name.svg" alt="Super Developer" />
-</h1>
+# Super Developer
 
 ## Skills
 - Proficient in JavaScript, HTML, CSS, and front-end frameworks such as React and Angular
