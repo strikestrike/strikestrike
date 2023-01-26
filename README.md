@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/strikestrike/strikestrike/master/name.svg" alt="Super Developer" />
+  <img src="https://github.com/strikestrike/strikestrike/blob/main/name.svg" alt="Super Developer" />
 </h1>
 
 ## Skills
