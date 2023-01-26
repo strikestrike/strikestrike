@@ -1,4 +1,6 @@
-# Full Stack Developer
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/strikestrike/strikestrike/master/name.svg" alt="Super Developer" />
+</h1>
 
 ## Skills
 - Proficient in JavaScript, HTML, CSS, and front-end frameworks such as React and Angular
