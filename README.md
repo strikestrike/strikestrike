@@ -1,5 +1,3 @@
-# Super Developer
-
 ## Skills
 - Proficient in JavaScript, HTML, CSS, and front-end frameworks such as React and Angular
 - Strong experience with Node.js and back-end technologies such as Express and MongoDB
